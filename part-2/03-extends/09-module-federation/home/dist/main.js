@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.createElement("div");e.innerHTML=(e=>{let t="<ul>";for(let l=0;l<e;l++)t+=`<li>item${e}</li>`;return stc+="</ul>",t})(5),document.body.appendChild(e)})();
